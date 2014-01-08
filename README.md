@@ -5,8 +5,8 @@ Previous project using pthread.h to code matrix multiplication, and reporting th
 
 #### Details
 
-Author: Andy Shaw
-Date: 11/26/12
+* Author: Andy Shaw
+* Date: 11/26/12
 
 ### Compiling notes
 
